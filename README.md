@@ -33,7 +33,7 @@ Helps users by providing medical assistance.
 
 ## Screenshots
 
-<img src="https://github.com/sinking8/MEDICO/blob/main/screenshots/1.PNG"/>
+<img src="https://github.com/priyadhanu14/Medi-Bot/blob/main/screenshots/1.PNG"/>
 
 <hr>
 
@@ -42,7 +42,7 @@ Helps users by providing medical assistance.
 1. Clone the repo
 
 ```
-$ git clone https://github.com/sinking8/Medico.git
+$ git clone https://github.com/priyadhanu14/Medi-Bot.git
 $ cd Medico
 ```
 
