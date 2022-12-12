@@ -1,4 +1,4 @@
-# Medico
+# MediBot
 
 A Medical assistant which is developed with the motive of assisting users at any position.
 Helps users by providing medical assistance.
